@@ -1,1 +1,0 @@
-<h1><?=$todos_los_productos?></h1>

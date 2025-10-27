@@ -1,1 +1,0 @@
-<h1> productos destacados</h1>
